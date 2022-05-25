@@ -1,5 +1,8 @@
 # buy-ddos-tool
-buy ddos tool<br>
+1month plan 2$<br>
+5month plan 9$<br>
+12month plan 18$<br>
+infinity plan 100$<br>
 # performance
 1second access is 50 access<br>
 proxy type is sock4<br>
